@@ -1,0 +1,3 @@
+#!/bin/bash
+uname_result=$(uname)
+echo "The result of running 'uname' is: $uname_result"
